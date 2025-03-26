@@ -3,7 +3,7 @@
 This project is a machine learning-based shipping cost estimator and carrier selector using Flask and React.
 
  🛠 Technologies Used
-- Flask (Backend)
+- Flask (Backend) with ML models
 - React (Frontend)
 - Ngrok (For API Deployment)
 
